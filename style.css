@@ -1,0 +1,76 @@
+h1 {
+    background-color:#52307c;
+    color: white;
+    text-align: center;
+}
+.header {
+    color:#52307c;
+    background-color: #e8c7ff;
+    text-align: center;
+}
+h2{
+    Color:#663e82;
+    background-color: #b491c8;
+    text-align: center;
+}
+.home {
+    font-size:20px;
+    color: white;
+    background-color: #663e82;
+}
+#first-iphone {
+    color:white;
+    background-color: #e8c7ff;
+}
+#app-store {
+    color:white;
+    background-color: #d8c7ff;
+}
+#retina {
+    color:white;
+    background-color: #b99aff;
+}
+#siri {
+    color:white;
+    background-color: #9b6dff;
+}
+#face-id {
+    color: white;
+    background-color: #7c40ff;
+}
+img {
+    height:200px
+}
+.title {
+    background-color: #e8c7ff;
+    color: red;
+    font-size:40px;
+    font-family:fantasy;
+    text-align: center;
+    
+}
+@keyframes title {
+    from{color:red}
+    to{color: skyblue;}
+}
+.title:hover {
+    animation: title 2s;
+}
+.main {
+    text-align: center;
+    background-color: #b491c8;
+}
+.footer {
+    text-align: center;
+    background-color: #663e82;
+    color:white
+}
+.info {
+    font-size:20px;
+    color:white;
+    background-color: black;
+}
+#pages {
+    height: 200px;
+    width: 300px
+}
